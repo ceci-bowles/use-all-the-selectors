@@ -21,6 +21,19 @@ h1 {
 h2 {
   color: #93a1a1;
 }
-.wrapper:first-child{
+
+.wrapper:first-child {
   background-color: #b58900;
+}
+
+.dfn :first-child-child {
+ color: #fff;
+}
+
+a {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: #fdf6e3;
 }
